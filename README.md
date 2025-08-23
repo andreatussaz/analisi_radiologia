@@ -25,7 +25,7 @@ git clone https://github.com/andreatussaz/analisi_radiologia.git
 cd analisi_radiologia
 ```
 
-2. Instal·larem les llibreries per poder executar el projecte dins de la carpeta requeriments.txt.
+2. Instal·larem les llibreries per poder executar el projecte dins de la carpeta requirements.txt.
 ```bash
 pip install -r requirements.txt
 ```
