@@ -3,6 +3,7 @@ Per fer aquest projecte m'he basat en la meva experiència com a tècnica en rad
 
 # Objectius
 - Analitzar les proves radiològiques més realitzades i demandades.
+- Conèixer el servei sol·licitant de les proves.
 - Identificar els dies i les hores amb més activitat.
 - Estudiar el temps d'espera segons la modalitat de la prova radiològica.
 - Examinar els perfils de pacients segons l'edat i el sexe.
