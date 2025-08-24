@@ -1,5 +1,6 @@
 # Anàlisi Estadístic del Servei de Radiodiagnòstic
-Per fer aquest projecte m'he basat en la meva experiència com a tècnica en radiodiagnòstic. 
+Aquest projecte està basat en la meva experiència com a tècnica en radiodiagnòstic i té com a objectiu optimitzar la gestió del temps i els recursos del servei.
+L'anàlisi s'ha realitzat mitjançant dades fictícies fent servir el llenguatge Python i les seves llibreries bàsiques per a la ciència de dades: Pandas, NumPy, Matplotlib i Seaborn.
 
 # Objectius
 - Analitzar les proves radiològiques més realitzades i demandades.
