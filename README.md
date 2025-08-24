@@ -1,4 +1,4 @@
-# Anàlisi Servei Radiodiagnòstic
+# Anàlisi Estadístic del Servei de Radiodiagnòstic
 Per fer aquest projecte m'he basat en la meva experiència com a tècnica en radiodiagnòstic. 
 
 # Objectius
